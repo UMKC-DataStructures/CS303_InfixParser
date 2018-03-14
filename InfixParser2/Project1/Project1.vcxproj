@@ -111,6 +111,21 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="J:\Documents\CollegePDFs\DataStructures\Stack Applications\Infix_To_Postfix.h" />
+    <ClInclude Include="J:\Documents\CollegePDFs\DataStructures\Stack Applications\linked_list_stack.h" />
+    <ClInclude Include="J:\Documents\CollegePDFs\DataStructures\Stack Applications\Node.h" />
+    <ClInclude Include="J:\Documents\CollegePDFs\DataStructures\Stack Applications\Palindrome_Finder.h" />
+    <ClInclude Include="J:\Documents\CollegePDFs\DataStructures\Stack Applications\Postfix_Evaluator.h" />
+    <ClInclude Include="J:\Documents\CollegePDFs\DataStructures\Stack Applications\Postfix_To_Infix.h" />
+    <ClInclude Include="J:\Documents\CollegePDFs\DataStructures\Stack Applications\Syntax_Error.h" />
+    <ClInclude Include="J:\Documents\CollegePDFs\DataStructures\Stack Applications\vector.h" />
+    <ClInclude Include="J:\Documents\CollegePDFs\DataStructures\Stack Applications\vector_based_stack.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="J:\Documents\CollegePDFs\DataStructures\Stack Applications\Infix_To_Postfix_Parens.cpp" />
+    <ClCompile Include="J:\Documents\CollegePDFs\DataStructures\Stack Applications\Postfix_Evaluator.cpp" />
+    <ClCompile Include="J:\Documents\CollegePDFs\DataStructures\Stack Applications\Postfix_To_Infix.cpp" />
+    <ClCompile Include="J:\Documents\CollegePDFs\DataStructures\Stack Applications\stack_app.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
